@@ -12,3 +12,6 @@ The total stock volume of the stock.
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+
+
+Utilized code from stackoverflow.com, stackexchange.com, and tutor help in tutor sessions.
